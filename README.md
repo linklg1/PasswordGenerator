@@ -7,3 +7,5 @@ Deployment link:
 https://linklg1.github.io/PasswordGenerator/
 
 Screenshots: 
+![alt text](assets/images/screenshot1.png)
+![alt text](assets/images/screenshot2.png)
